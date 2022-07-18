@@ -1,0 +1,1 @@
+# QA-Specialist-Automation-Exercise
